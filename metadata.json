@@ -1,0 +1,7 @@
+{
+  "name": "Rural Enterprise Feasibility Analyzer",
+  "description": "Rural enterprise hyper-local feasibility analyzer and concessional loan assessment system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
